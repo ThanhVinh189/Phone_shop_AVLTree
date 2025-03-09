@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Sản phẩm 1",
+        "price": 2000,
+        "category": "Electronics",
+        "description": "Gadget điện tử chất lượng cao.",
+        "image": "phone1.jpg"
+    },
+    {
+        "name": "Sản phẩm 2",
+        "price": 2000,
+        "category": "Books",
+        "description": "Cuốn sách thú vị và sâu sắc.",
+        "image": "phone2.jpg"
+    },
+    {
+        "name": "Sản phẩm 3",
+        "price": 3000,
+        "category": "Fashion",
+        "description": "Áo thun thoải mái và phong cách.",
+        "image": "phone3.jpg"
+    },
+    {
+        "name": "Sản phẩm 4",
+        "price": 4000,
+        "category": "Home Goods",
+        "description": "Gadget tiện ích cho nhà bếp.",
+        "image": "phone4.jpg"
+    },
+    {
+        "name": "Sản phẩm 5",
+        "price": 5000,
+        "category": "Gaming",
+        "description": "Trò chơi điện tử mới lôi cuốn.",
+        "image": "phone5.jpg"
+    },
+    {
+        "name": "Sản phẩm 6",
+        "price": 6000,
+        "category": "Electronics",
+        "description": "Tai nghe model mới nhất.",
+        "image": "phone6.jpg"
+    },
+    {
+        "name": "Sản phẩm 7",
+        "price": 7000,
+        "category": "Sports",
+        "description": "Giày chạy bộ chất lượng cao.",
+        "image": "phone7.jpg"
+    },
+    {
+        "name": "Sản phẩm 8",
+        "price": 8000,
+        "category": "Outdoor",
+        "description": "Lều cắm trại bền chắc.",
+        "image": "phone8.jpg"
+    },
+    {
+        "name": "Sản phẩm 9",
+        "price": 9000,
+        "category": "Pet Supplies",
+        "description": "Thức ăn tự nhiên cho chó.",
+        "image": "phone9.jpg"
+    },
+    {
+        "name": "Sản phẩm 10",
+        "price": 10000,
+        "category": "Health",
+        "description": "Huyết thanh chăm sóc da tiên tiến.",
+        "image": "phone10.jpg"
+    },
+    {
+        "name": "Sản phẩm 11",
+        "price": 11000,
+        "category": "Electronics",
+        "description": "Loa thông minh cho nhà thông minh.",
+        "image": "phone1.jpg"
+    },
+    {
+        "name": "Sản phẩm 12",
+        "price": 12000,
+        "category": "Books",
+        "description": "Sách giáo khoa lịch sử toàn diện.",
+        "image": "phone2.jpg"
+    },
+    {
+        "name": "Sản phẩm 13",
+        "price": 13000,
+        "category": "Fashion",
+        "description": "Váy dạ hội thanh lịch.",
+        "image": "phone3.jpg"
+    },
+    {
+        "name": "Sản phẩm 14",
+        "price": 14000,
+        "category": "Home Goods",
+        "description": "Đồ trang trí tường đẹp.",
+        "image": "phone4.jpg"
+    },
+    {
+        "name": "Sản phẩm 15",
+        "price": 15000,
+        "category": "Gaming",
+        "description": "Bộ điều khiển trò chơi không dây.",
+        "image": "phone5.jpg"
+    },
+    {
+        "name": "Sản phẩm 16",
+        "price": 16000,
+        "category": "Electronics",
+        "description": "Sạc dự phòng di động.",
+        "image": "phone6.jpg"
+    },
+    {
+        "name": "Sản phẩm 17",
+        "price": 17000,
+        "category": "Sports",
+        "description": "Bóng đá cấp độ chuyên nghiệp.",
+        "image": "phone7.jpg"
+    },
+    {
+        "name": "Sản phẩm 18",
+        "price": 18000,
+        "category": "Outdoor",
+        "description": "Ba lô dã ngoại nhẹ.",
+        "image": "phone8.jpg"
+    },
+    {
+        "name": "Sản phẩm 19",
+        "price": 19000,
+        "category": "Pet Supplies",
+        "description": "Giường mèo thoải mái.",
+        "image": "phone9.jpg"
+    },
+    {
+        "name": "Sản phẩm 20",
+        "price": 20000,
+        "category": "Health",
+        "description": "Thực phẩm bổ sung đa vitamin.",
+        "image": "phone10.jpg"
+    }
+]
